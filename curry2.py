@@ -6,13 +6,13 @@ def download_images(keyword, folder_name, max_num=50):
 
 # ダウンロード対象一覧
 targets = [
-    ("ベンベラネットワークカンパニー スープカレー", "benbera"),
-    ("村上カレー店・プルプル スープカレー", "purupuru"),
-    ("スープカレー Hot Spice Shop Hood Dog", "hooddog"),
-    ("スープカレーカリーキッチン スパイスポット! SPICE POT!", "spicepot"),
-    ("スープカレー 木多郎 澄川本店", "kitaro"),
-    ("Spice&mill 札幌 スープカレー", "spice_mill"),
-    ("gop(ゴップ)のアナグラ スープカレー", "gop")
+    ("札幌 スープカレー チキン 野菜", "benbera"),
+    ("札幌 スープカレー 海鮮", "purupuru"),
+    ("札幌 スープカレー ポーク", "hooddog"),
+    ("札幌 スープカレー 野菜", "spicepot"),
+    ("札幌 スープカレー  Chicken", "kitaro"),
+    ("札幌 スープカレー  辛い", "mill"),
+    ("札幌 スープカレー  グリーン", "gop")
 
 ]
 
